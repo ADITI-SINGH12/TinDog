@@ -1,0 +1,133 @@
+body{
+  font-family: "Montseraat";
+}
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+h1{
+  font-family: 'Montserrat-Black';
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: "Montserrat-bold";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+h2{
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+p {
+  color: #8f8f8f;
+}
+/*Navigation bar */
+.navbar{
+  padding: 0 0 4.5rem;
+
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-weight: "Montserrat-light";
+}
+/*Download buttons are custom class here.*/
+.Download button{
+  margin: 7% 3% 7% 0;
+}
+/*title image*/
+.title-images{
+width: 60%;
+transform: rotate(25deg);
+}
+/*features developing this padding lead to centred in feature.*/
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+}
+.features-box{
+  text-align: center;
+  padding: 5%;
+}
+/*for hovering on font */
+.icon:hover {
+  background-color: #ff4c68;
+}
+.icon{
+  margin-bottom: 1rem;
+}
+
+/*Testimonials section*/
+#testimonials{ /*padding is going to remove from here so that button for next slide could be clicked more easily */
+  /*padding: 7% 15%; */
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+  }
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonials-image{
+  border-radius: 100%;
+  width: 25%;
+  margin: 20px;
+}
+/*press section how much media love you*/
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 10%;
+  margin: 20px 20px 50px; /*top left and right bottom */
+}
+/*pricing section */
+#pricing{
+  padding: 100px;
+  background-color: #fff;
+}
+.pricing-column{
+  padding: 3% 2%;
+  text-align: center;
+}
+/*cta section*/
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+}
+.cta-fluid{
+  padding: 3% 15% 7%;
+}
+.Download button-1{
+  margin: 7% 3% 7% 0;
+}
+/*footer section*/
+#footer{
+  background-color: #fff;
+  text-align: center;
+}
+.footer-section{
+  padding: 7% 15%;
+}
+.social-icon{
+  margin: 20px,10px;
+}
